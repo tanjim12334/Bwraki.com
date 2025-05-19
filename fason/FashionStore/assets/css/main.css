@@ -12998,31 +12998,3 @@ section,
   color: color-mix(in srgb, var(--default-color), transparent 60%);
   font-size: 14px;
 }
-
-
-.hero-section img {
-  width: 400px;
-  height: 400px;
-}
-
-.hero-section {
-  min-height: 70vh;
-  background-color: #5f0043;
-}
-
-.hero-text h1 {
-  animation: fadeInDown 1s ease-out forwards;
-  color: #ffffff;
-}
-.hero-text h6 {
-  color: #ffffff;
-}
-
-.hero-text p {
-  animation: fadeInUp 1.5s ease-out forwards;
-
-}
-
-.btn {
-  animation: fadeIn 2s ease-out forwards;
-}
